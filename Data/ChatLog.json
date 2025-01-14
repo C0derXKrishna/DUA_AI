@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "Hi"
+    },
+    {
+        "role": "assistant",
+        "content": "\u0928\u092e\u0938\u094d\u0924\u0947!"
+    },
+    {
+        "role": "user",
+        "content": "thik hi"
+    },
+    {
+        "role": "assistant",
+        "content": "\u0920\u0940\u0915 \u0939\u0940!"
+    },
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "\u0915\u094d\u092f\u093e \u0939\u093e\u0932 \u0939\u0948?"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! According to Merriam-Webster and Dictionary.com, \"hi\" is a greeting, often used as a casual way to acknowledge someone or initiate a conversation. Would you like to chat about something in particular or ask me a question?"
+    }
+]
